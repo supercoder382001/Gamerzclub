@@ -23,7 +23,7 @@ function submit() {
         })
       })   
       if (!response.ok) {
-        window.location.href = 'https://drive.google.com/uc?export=download&id=1pWdnzvDjT-ciCaeYvvztKDpNOqoReQRP';
+        window.location.href = 'https://drive.google.com/uc?export=download&id=1CGcBnhqar2sYqkjkFv8wOJwX36RYEsjl';
       } else {
         console.error('Error:', response);
       }  } 
@@ -60,7 +60,7 @@ const Form = (props) => {
         <div className="form-container1">
           <img
             alt="image"
-            src="/external/untitled%20design%20(6)-1500w.png"
+            src="/external/GCB.png"
             className="form-image"
           />
           <div className="form-container2">
@@ -133,6 +133,20 @@ const Form = (props) => {
             min-height: 100vh;
             align-items: center;
             flex-direction: column;
+          }
+          .email{
+          width:95%;
+          }
+          .mobile{
+          width:95%;
+          }
+          .namer{
+          width:95%;
+
+          }
+          .gender
+          {
+          width:95%;
           }
           .form-container1 {
             flex: 0 0 auto;

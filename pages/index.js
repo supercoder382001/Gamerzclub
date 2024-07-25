@@ -46,7 +46,7 @@ const Home = (props) => {
                 </a>
               </nav>
               <a
-                href="https://drive.google.com/uc?export=download&amp;id=1pWdnzvDjT-ciCaeYvvztKDpNOqoReQRP"
+                href="https://drive.google.com/uc?export=download&amp;id=1CGcBnhqar2sYqkjkFv8wOJwX36RYEsjl"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link"
@@ -102,7 +102,7 @@ const Home = (props) => {
                 </nav>
                 <div className="home-buttons1">
                   <a
-                    href="https://drive.google.com/uc?export=download&amp;id=1vtmJrwWrORDqcJZIrKOdYkLjbslQ6Iaj"
+                    href="https://drive.google.com/uc?export=download&amp;id=1CGcBnhqar2sYqkjkFv8wOJwX36RYEsjl"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-register1 buttonFilled"
@@ -142,7 +142,7 @@ const Home = (props) => {
                 Turn your passion for gaming into mastery
               </h3>
               <a
-                href="https://drive.google.com/uc?export=download&amp;id=1vtmJrwWrORDqcJZIrKOdYkLjbslQ6Iaj"
+                href="https://drive.google.com/uc?export=download&amp;id=1CGcBnhqar2sYqkjkFv8wOJwX36RYEsjl"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link1"
@@ -221,7 +221,7 @@ const Home = (props) => {
                   <FeatureCard1></FeatureCard1>
                   <FeatureCard2></FeatureCard2>
                   <a
-                    href="https://drive.google.com/uc?export=download&amp;id=1vtmJrwWrORDqcJZIrKOdYkLjbslQ6Iaj"
+                    href="https://drive.google.com/uc?export=download&amp;id=1CGcBnhqar2sYqkjkFv8wOJwX36RYEsjl"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link2"
@@ -356,7 +356,7 @@ const Home = (props) => {
               Compete and Win Exciting Prizes
             </h1>
             <a
-              href="https://drive.google.com/uc?export=download&amp;id=1vtmJrwWrORDqcJZIrKOdYkLjbslQ6Iaj"
+              href="https://drive.google.com/uc?export=download&amp;id=1CGcBnhqar2sYqkjkFv8wOJwX36RYEsjl"
               target="_blank"
               rel="noreferrer noopener"
               className="home-banner-button buttonFilled"
@@ -1181,7 +1181,7 @@ const Home = (props) => {
           }
           .home-image11 {
             width: 200px;
-            object-fit: cover;
+            object-fit: contain;
           }
           .home-container29 {
             gap: var(--dl-space-space-unit);
